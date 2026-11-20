@@ -1,4 +1,4 @@
-# Supervisión de un TFG con n8n e IA
+# Ejemplo Supervisión de TFG con n8n e IA
 
 Repositorio público de demostración para la sesión 5 del curso **Automatización y agentes de IA para la docencia universitaria (nivel intermedio)** de la UCLM.
 
