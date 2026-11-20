@@ -1,0 +1,29 @@
+{
+  "acciones_autorizadas": [
+    "indicar_entregables_faltantes",
+    "solicitar_cambios",
+    "marcar_fase_preparada",
+    "revision_no_concluyente",
+    "registrar_error_controlado"
+  ],
+  "casos": [
+    {
+      "codigo": "F0-01",
+      "entregable_existe": true,
+      "accion_esperada": "marcar_fase_preparada",
+      "motivo": "El documento cubre de forma identificable los criterios principales del issue."
+    },
+    {
+      "codigo": "F0-02",
+      "entregable_existe": true,
+      "accion_esperada": "solicitar_cambios",
+      "motivo": "El documento carece de varios elementos exigidos, aunque la ruta existe."
+    },
+    {
+      "codigo": "F0-03",
+      "entregable_existe": false,
+      "accion_esperada": "indicar_entregables_faltantes",
+      "motivo": "La ruta indicada en el issue no existe en el repositorio."
+    }
+  ]
+}
