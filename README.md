@@ -2,6 +2,14 @@
 
 Repositorio público de demostración para la sesión 5 del curso **Automatización y agentes de IA para la docencia universitaria (nivel intermedio)** de la UCLM.
 
+## Enlaces públicos
+
+- Repositorio: <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n>
+- Proyecto: <https://github.com/users/josemanuelgilperez/projects/9>
+- Caso suficiente (`F0-01`): <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n/issues/1>
+- Caso incompleto (`F0-02`): <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n/issues/2>
+- Caso sin entregable (`F0-03`): <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n/issues/3>
+
 ## Finalidad
 
 El repositorio representa un TFG ficticio organizado mediante issues de GitHub. Cada issue describe una fase, identifica un entregable y establece criterios de aceptación. El workflow de n8n deberá:
