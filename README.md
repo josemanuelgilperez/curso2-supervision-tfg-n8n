@@ -1,14 +1,14 @@
 # Ejemplo Supervisión de TFG con n8n e IA
 
-Repositorio público de demostración para la sesión 5 del curso **Automatización y agentes de IA para la docencia universitaria (nivel intermedio)** de la UCLM.
+Repositorio público de demostración para la sesión 5 del curso **Automatización inteligente del trabajo universitario** de la UCLM.
 
 ## Enlaces públicos
 
-- Repositorio: <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n>
+- Repositorio: <https://github.com/josemanuelgilperez/supervision-tfg-n8n-ia>
 - Proyecto: <https://github.com/users/josemanuelgilperez/projects/9>
-- Caso suficiente (`F0-01`): <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n/issues/1>
-- Caso incompleto (`F0-02`): <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n/issues/2>
-- Caso sin entregable (`F0-03`): <https://github.com/josemanuelgilperez/curso2-supervision-tfg-n8n/issues/3>
+- Caso suficiente (`F0-01`): <https://github.com/josemanuelgilperez/supervision-tfg-n8n-ia/issues/1>
+- Caso incompleto (`F0-02`): <https://github.com/josemanuelgilperez/supervision-tfg-n8n-ia/issues/2>
+- Caso sin entregable (`F0-03`): <https://github.com/josemanuelgilperez/supervision-tfg-n8n-ia/issues/3>
 
 ## Finalidad
 
